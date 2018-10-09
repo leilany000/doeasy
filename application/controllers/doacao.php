@@ -1,6 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 // Classe doação
+// outra classe
 class doacao extends CI_Controller {
 
 	public function index() {
